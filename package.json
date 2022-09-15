@@ -1,0 +1,20 @@
+{
+  "name": "moralis-next",
+  "version": "1.0.0",
+  "description": "test dapp",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "eleven",
+  "license": "ISC",
+  "dependencies": {
+    "moralis": "^2.4.0",
+    "next": "^12.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
